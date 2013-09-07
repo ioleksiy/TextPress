@@ -2,7 +2,7 @@
 return array(
 	'date.format' => 'd M, Y',   // Date format to be used in article page (not for routes)   
 	'author.name' => 'Author name', // Global author name 
-	'site.name'  => 'TextPress',   // Site name (Global)
+	'site.name'  => 'TextPress Demo',   // Site name (Global)
 	'site.title' => 'PHP Flat-file blog engine',  // Site default title (Global)
 	'article.path'=> './articles',      // Path to articles
 	'themes.path' => './themes',  // Path to templates
